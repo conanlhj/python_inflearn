@@ -1,0 +1,49 @@
+[10104:13360:0123/214951.771:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter 6\\\"sub-a80fd-212303-19771\"\Atom Crashes" --v=1]
+[10104:13360:0123/214951.781:VERBOSE1:crash_service.cc(147)] window handle is 0000000000040DE2
+[10104:13360:0123/214951.781:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter 6\"sub-a80fd-212303-19771"\Atom Crashes
+[10104:13360:0123/214951.781:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter 6\"sub-a80fd-212303-19771"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[10104:13360:0123/214951.782:ERROR:crash_service.cc(286)] could not start dumper
+[16840:10052:0123/215623.857:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter 6\\\"sub-a80fd-212303-19771\"\Atom Crashes" --v=1]
+[16840:10052:0123/215623.866:VERBOSE1:crash_service.cc(147)] window handle is 00000000000C00C0
+[16840:10052:0123/215623.867:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter 6\"sub-a80fd-212303-19771"\Atom Crashes
+[16840:10052:0123/215623.867:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter 6\"sub-a80fd-212303-19771"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[16840:10052:0123/215623.867:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[16840:9532:0123/215623.867:VERBOSE1:crash_service.cc(309)] client start. pid = 17060
+[16840:9532:0123/215624.243:VERBOSE1:crash_service.cc(309)] client start. pid = 6852
+[7508:13920:0123/215624.261:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter 6\\\"sub-a80fd-212303-19771\"\Atom Crashes" --v=1]
+[7508:13920:0123/215624.269:VERBOSE1:crash_service.cc(147)] window handle is 00000000021E0B2E
+[7508:13920:0123/215624.269:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter 6\"sub-a80fd-212303-19771"\Atom Crashes
+[7508:13920:0123/215624.269:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter 6\"sub-a80fd-212303-19771"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[7508:13920:0123/215624.269:ERROR:crash_service.cc(286)] could not start dumper
+[16840:9532:0123/221652.357:VERBOSE1:crash_service.cc(309)] client start. pid = 7184
+[12084:7048:0123/221652.376:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter 6\\\"sub-a80fd-212303-19771\"\Atom Crashes" --v=1]
+[12084:7048:0123/221652.383:VERBOSE1:crash_service.cc(147)] window handle is 00000000000D0562
+[12084:7048:0123/221652.384:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter 6\"sub-a80fd-212303-19771"\Atom Crashes
+[12084:7048:0123/221652.384:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter 6\"sub-a80fd-212303-19771"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[12084:7048:0123/221652.384:ERROR:crash_service.cc(286)] could not start dumper
+[16840:13592:0123/221652.453:VERBOSE1:crash_service.cc(318)] client end. pid = 7184
+[16840:920:0123/222145.926:VERBOSE1:crash_service.cc(318)] client end. pid = 6852
+[16840:920:0123/222145.937:VERBOSE1:crash_service.cc(318)] client end. pid = 17060
+[16840:920:0123/222146.938:VERBOSE1:crash_service.cc(339)] zero clients. exiting
+[16840:10052:0123/222146.938:VERBOSE1:crash_service.cc(473)] session ending..
+[16840:10052:0123/222146.938:VERBOSE1:crash_service.cc(478)] clients connected :3
+clients terminated :3
+dumps serviced :0
+dumps reported :0
+[16840:10052:0123/222146.938:VERBOSE1:crash_service_main.cc(100)] Session end. return code is 0

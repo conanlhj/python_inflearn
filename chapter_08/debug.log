@@ -1,0 +1,27 @@
+[7284:10712:0128/225745.340:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter_8\\\"sub-1820d-212303-19773\"\Atom Crashes" --v=1]
+[7284:10712:0128/225745.344:VERBOSE1:crash_service.cc(147)] window handle is 00000000000A0C4A
+[7284:10712:0128/225745.344:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter_8\"sub-1820d-212303-19773"\Atom Crashes
+[7284:10712:0128/225745.344:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter_8\"sub-1820d-212303-19773"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[7284:10712:0128/225745.786:ERROR:crash_service.cc(286)] could not start dumper
+[12968:6048:0128/231021.054:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter_8\\\"sub-1820d-212303-19773\"\Atom Crashes" --v=1]
+[12968:6048:0128/231021.056:VERBOSE1:crash_service.cc(147)] window handle is 00000000002C04FC
+[12968:6048:0128/231021.056:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter_8\"sub-1820d-212303-19773"\Atom Crashes
+[12968:6048:0128/231021.056:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter_8\"sub-1820d-212303-19773"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[12968:6048:0128/231021.056:ERROR:crash_service.cc(286)] could not start dumper
+[9208:6892:0128/233346.987:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter_8\\\"sub-1820d-212303-19773\"\Atom Crashes" --v=1]
+[9208:6892:0128/233346.990:VERBOSE1:crash_service.cc(147)] window handle is 000000000086044A
+[9208:6892:0128/233346.990:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter_8\"sub-1820d-212303-19773"\Atom Crashes
+[9208:6892:0128/233346.990:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter_8\"sub-1820d-212303-19773"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[9208:6892:0128/233346.990:ERROR:crash_service.cc(286)] could not start dumper

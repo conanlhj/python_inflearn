@@ -1,0 +1,31 @@
+[9736:6280:0209/122003.419:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter_9\windows\\\"1\"\Atom Crashes" --v=1]
+[9736:6280:0209/122003.422:VERBOSE1:crash_service.cc(147)] window handle is 00000000000D085A
+[9736:6280:0209/122003.423:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter_9\windows\"1"\Atom Crashes
+[9736:6280:0209/122003.423:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter_9\windows\"1"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[9736:6280:0209/122003.423:VERBOSE1:crash_service_main.cc(95)] Ready to process crash requests
+[9736:8144:0209/122003.423:VERBOSE1:crash_service.cc(309)] client start. pid = 15976
+[9736:8144:0209/122003.751:VERBOSE1:crash_service.cc(309)] client start. pid = 12612
+[17792:17992:0209/122003.762:VERBOSE1:crash_service_main.cc(81)] Session start. cmdline is [--reporter-url=https://atom.io/crash_reports --application-name=Atom "--crashes-directory=D:\SynologyDrive\Workspace\python_mooc\chapter_9\windows\\\"1\"\Atom Crashes" --v=1]
+[17792:17992:0209/122003.766:VERBOSE1:crash_service.cc(147)] window handle is 0000000000240210
+[17792:17992:0209/122003.766:VERBOSE1:crash_service.cc(275)] pipe name is \\.\pipe\Atom Crash Service
+dumps at D:\SynologyDrive\Workspace\python_mooc\chapter_9\windows\"1"\Atom Crashes
+[17792:17992:0209/122003.766:VERBOSE1:crash_service.cc(279)] checkpoint is D:\SynologyDrive\Workspace\python_mooc\chapter_9\windows\"1"\Atom Crashes\crash_checkpoint.txt
+server is https://atom.io/crash_reports
+maximum 128 reports/day
+reporter is electron-crash-service
+[17792:17992:0209/122003.766:ERROR:crash_service.cc(286)] could not start dumper
+[9736:8144:0209/122041.329:VERBOSE1:crash_service.cc(309)] client start. pid = 16424
+[9736:12932:0209/122041.414:VERBOSE1:crash_service.cc(318)] client end. pid = 16424
+[9736:14000:0209/160146.005:VERBOSE1:crash_service.cc(318)] client end. pid = 12612
+[9736:14000:0209/160146.013:VERBOSE1:crash_service.cc(318)] client end. pid = 15976
+[9736:14000:0209/160147.014:VERBOSE1:crash_service.cc(339)] zero clients. exiting
+[9736:6280:0209/160147.014:VERBOSE1:crash_service.cc(473)] session ending..
+[9736:6280:0209/160147.014:VERBOSE1:crash_service.cc(478)] clients connected :3
+clients terminated :3
+dumps serviced :0
+dumps reported :0
+[9736:6280:0209/160147.014:VERBOSE1:crash_service_main.cc(100)] Session end. return code is 0
